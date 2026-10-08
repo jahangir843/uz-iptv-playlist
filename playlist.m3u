@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,Ananda TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c65B4KJ/download.jpg" group-title="Bangla", Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1,Asian TV
 https://tvsen6.aynaott.com/pKb5k6NnzxsKpWUs6E8M/index.m3u8
