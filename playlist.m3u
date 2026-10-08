@@ -19,7 +19,7 @@ https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
 https://btv.hridoytv-channel.workers.dev/btv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjhHcT3b/BTV-news.png" group-title="Bangla", BTV News
 https://btv.hridoytv-channel.workers.dev/news.m3u8
-#EXTINF:-1,Channel 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/kVcJK4V8/Channel-1.png" group-title="Bangla", Channel 1
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1,Channel 16
 http://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
