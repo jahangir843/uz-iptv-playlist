@@ -33,7 +33,7 @@ https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?e=1784102563&u=ee5437
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjcCCYqb/enter.jpg" group-title="Bangla", Enter TV
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,G Series Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rR4m5zyj/g.jpg" group-title="Bangla", G sires Drama
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
 #EXTINF:-1,Global TV
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
