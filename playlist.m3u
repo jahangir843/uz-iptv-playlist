@@ -35,11 +35,11 @@ https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rR4m5zyj/g.jpg" group-title="Bangla", G sires Drama
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1,Global TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBDBvxR9/global.png" group-title="Bangla", Global TV
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
-#EXTINF:-1,Independent TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jZHcG79H/ind.jpg" group-title="Bangla",Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
-#EXTINF:-1,Jamuna TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3VZHgQx/jamuna-tv.jpg" group-title="Bangla",Jumuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
 #EXTINF:-1,Jonmobhumi TV
 https://jtvs.ncare.live/Gznr84Woj7UEye3OPVeWq2ForboWAgdV/jonmobhumitv.stream/playlist.m3u8
