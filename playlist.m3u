@@ -15,13 +15,11 @@ https://tvsen5.aynaott.com/banglavision/index.m3u8
 https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NntP2tWC/boishakhi-tv-logo.png" group-title="Bangla", Boishakhi TV
 https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1,Channel 24
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/spbKFDkq/channel-24.jpg" group-title="Bangla", Channel 24
 https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
-#EXTINF:-1,Channel 9
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/434.ts
-#EXTINF:-1,Channel I
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Z1mWMRYN/channel-i.png" group-title="Bangla", Channel i
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
-#EXTINF:-1,DBC News
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxqfVM9J/images.jpg" group-title="Bangla", DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
 #EXTINF:-1,Deepto TV
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
