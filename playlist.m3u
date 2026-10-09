@@ -31,7 +31,7 @@ https://tvsen6.aynaott.com/EWDrV5QskgarZEUBb3pU/index.m3u8
 https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8?e=1784102563&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=b5e80a73380863be907284374bdb2bda
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/R4bCVqcq/ekhushey.png" group-title="Bangla", Ekushey TV
 https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
-#EXTINF:-1,Enter TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjcCCYqb/enter.jpg" group-title="Bangla", Enter TV
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,G Series Drama
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
