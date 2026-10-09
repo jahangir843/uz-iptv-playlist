@@ -135,9 +135,9 @@ https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKYqFpVH/talk.jpg" group-title="Hindi", Zee Talkies
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps6P3mNB/7x.png" group-title="Panjabi", 7x Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps6P3mNB/7x.png" group-title="Punjabi", 7x Music
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Panjabi", 9x Jalwa
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Punjabi", 9x Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/QW7mfPH/jakkas.jpg" group-title="Tamil", 9x Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
