@@ -53,9 +53,9 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
 #EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3z62gtw/NAGORIK.png" group-title="Bangla", Nagorik TV
 http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
-#EXTINF:-1,News 21 Bangla TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Swvygx4J/nes-21.jpg" group-title="Bangla", News 21 TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1,News 24
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JR0J6996/24.png" group-title="Bangla", News 24 TV
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1,Nexus TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
