@@ -35,84 +35,74 @@ https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
 https://live1.entertv.com.bd/entertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/rR4m5zyj/g.jpg" group-title="Bangla", G sires Drama
 https://vods2.aynaott.com/gseriesDrama/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBDBvxR9/global.png" group-title="Bangla", Global TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBDBvxR9/global.png" group-title="Bangla", Global TV
 https://stream.ottplus.live/live/global_tv_abr/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jZHcG79H/ind.jpg" group-title="Bangla", Independent TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jZHcG79H/ind.jpg" group-title="Bangla", Independent TV
 https://drk6xq0vhn.gpcdn.net/live/independent_tv_abr/live/independent_tv_720/chunks.m3u8
 #EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3VZHgQx/jamuna-tv.jpg" group-title="Bangla", Jumuna TV
 https://stream.ottplus.live/live/jamuna_tv_abr/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMS0VrvT/Maasranga.jpg" group-title="Bangla", Maasranga TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nMS0VrvT/Maasranga.jpg" group-title="Bangla", Maasranga TV
 http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 #EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qLRvcFbg/me.jpg" group-title="Bangla", Me TV
 https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2JZQtph/mohona.jpg" group-title="Bangla", Mohona TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/2JZQtph/mohona.jpg" group-title="Bangla", Mohona TV
 https://tvsen6.aynaott.com/AkyX5dunzju4cpo26dr7/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1J91YXsx/movie.jpg" group-title="Bangla", Movie Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1J91YXsx/movie.jpg" group-title="Bangla", Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZPT1KdJ/my.png" group-title="Bangla", My TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/XZPT1KdJ/my.png" group-title="Bangla", My TV
 https://tvsen6.aynaott.com/XMpHaEf0ANBhv8w6NWR7/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3z62gtw/NAGORIK.png" group-title="Bangla", Nagorik TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/C3z62gtw/NAGORIK.png" group-title="Bangla", Nagorik TV
 http://livetv.akr4m.com:8080/bdtv/restrem/38.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Swvygx4J/nes-21.jpg" group-title="Bangla", News 21 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Swvygx4J/nes-21.jpg" group-title="Bangla", News 21 TV
 http://103.190.133.68:1935/news21live/live/playlist.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JR0J6996/24.png" group-title="Bangla", News 24 TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JR0J6996/24.png" group-title="Bangla", News 24 TV
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1,Nexus TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PvpgdzX3/nrb.png" group-title="Bangla", NRB TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PvpgdzX3/nrb.png" group-title="Bangla", NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Bangla", NTV 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Bangla", NTV 
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMRR9f9s/r11.jpg" group-title="Bangla", Rajdhani TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMRR9f9s/r11.jpg" group-title="Bangla", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rCx739b/rtv.jpg" group-title="Bangla", RTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rCx739b/rtv.jpg" group-title="Bangla", RTV
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKtwBvk2/s-A.jpg" group-title="Bangla", SA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKtwBvk2/s-A.jpg" group-title="Bangla", SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGkZCdYd/fff.png" group-title="Bangla", Somoy TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGkZCdYd/fff.png" group-title="Bangla", Somoy TV
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/67Vsv7qb/t-s.jpg" group-title="Bangla", T Sports
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/67Vsv7qb/t-s.jpg" group-title="Bangla", T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWCJqsf3/amar-bangla.png" group-title="Bangla", Amar Bangla Digital
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWCJqsf3/amar-bangla.png" group-title="Bangla", Amar Bangla Digital
 http://115.187.41.216:8080/hls/amardigital/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWwSKG9n/bbbbb.jpg" group-title="Bangla", Bangla Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/VWwSKG9n/bbbbb.jpg" group-title="Bangla", Bangla Plus
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d00Bhvpj/color.jpg" group-title="Bangla", Color Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/d00Bhvpj/color.jpg" group-title="Bangla", Color Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/colorsbanglahd/800.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKbkynDK/enterr-10.jpg" group-title="Bangla", Enterr 10 Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rKbkynDK/enterr-10.jpg" group-title="Bangla", Enterr 10 Bangla
 https://amg01448-samsungin-enterr10bangla-samsungin-ad-gg.amagi.tv/playlist/amg01448-samsungin-enterr10bangla-samsungin/playlist.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM12Ndsc/jalsa.jpg" group-title="Bangla", Jalsha Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM12Ndsc/jalsa.jpg" group-title="Bangla", Jalsha Movies
 http://livetv.akr4m.com:8080/bdtv/restrem/27.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM12Ndsc/jalsa.jpg" group-title="Bangla", Jalsha Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nM12Ndsc/jalsa.jpg" group-title="Bangla", Jalsha Movies
 https://box.bbaria.net:8083/Jalsha_Movie/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4ZJcTZv/r-plus.jpg" group-title="Bangla", R Plus Gold
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4ZJcTZv/r-plus.jpg" group-title="Bangla", R Plus Gold
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/cf883da3-f9f5-4c70-b0ef-b3ac2e2ad1e3/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4ZJcTZv/r-plus.jpg" group-title="Bangla", R Plus Gold
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4ZJcTZv/r-plus.jpg" group-title="Bangla", R Plus Gold
 https://thelegitpro.in/pntv/rplusnews24x7/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zdHv7MQ/rongen.jpg" group-title="Bangla", Rongeen TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zdHv7MQ/rongen.jpg" group-title="Bangla", Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGj8RcnY/songet.jpg" group-title="Bangla", Sangeet Bangla 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PGj8RcnY/songet.jpg" group-title="Bangla", Sangeet Bangla 
 https://mumt05.tangotv.in/87NeALx2SANGEETBANGLA/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mx1DgRX3/sony-ath.png" group-title="Bangla", Sony AATH
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mx1DgRX3/sony-ath.png" group-title="Bangla", Sony AATH
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMS640Cq/star-bangla.jpg" group-title="Bangla", Star Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/bMS640Cq/star-bangla.jpg" group-title="Bangla", Star Bangla
 http://103.151.60.162:2122/play/a0f5/index.m3u8?hls
-#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdY98XC3/star-jalsa.jpg" group-title="Bangla", Star Jalsha
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LdY98XC3/star-jalsa.jpg" group-title="Bangla", Star Jalsha
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:starjalsha.smil/chunklist_b1928000.m3u8
-#EXTINF:-1,ZB Cinema
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1,Zee Bangla
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TBZfkHth/z-bangla.jpg" group-title="Bangla", Zee Bangla
 http://27.124.71.27/Zee_Bangla/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Zee Bangla [Backup 1]
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/ZeeBanglaHD.m3u8
-#EXTINF:-1,Zee Bangla [Backup 2]
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98881.ts
-#EXTINF:-1,Zee Bangla [Backup 2]
-https://drk6xq0vhn.gpcdn.net/live/zee_bangla_720/index.m3u8
-#EXTINF:-1,Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pr9tXpjS/z-bangla-hd.jpg" group-title="Bangla", Zee Bangla HD
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#EXTINF:-1,Zee Bangla HD [Backup 1]
-https://flussonic.defineatoz.com/zeebangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Asianet Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
 #EXTINF:-1,Goldmines
