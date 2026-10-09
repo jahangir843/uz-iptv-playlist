@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RfBHx8N/png-clipart-logo-bijoy-tv-brand-television-mpeg-4-part-14-television-blue.png" group-title="Bangla", Bijoy TV
-https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c65B4KJ/download.jpg" group-title="Bangla", Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jPxGVtpR/asian-tv-logo-png-seeklogo-534370.png" group-title="Bangla", Asian TV
@@ -21,7 +19,7 @@ https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/index.m3u8
 https://tvsen6.aynaott.com/FNHpYvGZ7FkCE10PwTHm/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vxqfVM9J/images.jpg" group-title="Bangla", DBC News
 https://tvsen6.aynaott.com/pF66Tkz0qFwP2aMMqHyt/index.m3u8
-#EXTINF:-1,Deepto TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Cprfpg48/deepto.png" group-title="Bangla", Deepto TV
 https://tvsen5.aynaott.com/tK2BNdfsdfsdf/index.m3u8
 #EXTINF:-1,Desh TV
 https://tvsen6.aynaott.com/ryFkXfd1a4CQ7mMdc820/index.m3u8
