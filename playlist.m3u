@@ -59,17 +59,17 @@ http://103.190.133.68:1935/news21live/live/playlist.m3u8
 https://tvsen6.aynaott.com/cdgr3tw6WoG7JyRnLbi0/index.m3u8
 #EXTINF:-1,Nexus TV
 https://stream.ottplus.live/live/nexus_tv_abr/index.m3u8
-#EXTINF:-1,NRB TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PvpgdzX3/nrb.png" group-title="Bangla", NRB TV
 https://app.ncare.live/live-orgin/nrb-eu.stream/playlist.m3u8
-#EXTINF:-1,NTV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7m7RWHQ/ntv.png" group-title="Bangla", NTV 
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1,Rajdhani TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMRR9f9s/r11.jpg" group-title="Bangla", Rajdhani TV
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
-#EXTINF:-1,RTV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/rCx739b/rtv.jpg" group-title="Bangla", RTV
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1,SA TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKtwBvk2/s-A.jpg" group-title="Bangla", SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1,Somoy TV
+#EXTINF:-1,Global TV#EXTINF:-1 tvg-logo="https://i.ibb.co.com/RGkZCdYd/fff.png" group-title="Bangla", Somoy TV
 https://tvsen5.aynaott.com/somoytv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T Sports
 https://mycoffeetime.net/play/tSDRdsaoGGQ2qYgRPDEe9q-qMIzoahbJArH3W3vOiEaB97nXMpWmLb0Ts759Tjsp/m3u8
