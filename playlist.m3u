@@ -107,45 +107,17 @@ EXTINF:-1 tvg-logo="https://i.ibb.co.com/pBPmnGNF/pitaara.jpg" group-title="Punj
 https://d2lk5u59tns74c.cloudfront.net/out/v1/500a6b45f5ae41dda445d912b59eaa09/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/F4KH032s/pocket.png" group-title="Hindi", Pocket Flims
 https://vglivessai.akamaized.net/sg/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b8ada260-bb81-472b-b7c1-3a79213a84b8/e02a0ce5-6c42-4cca-bb53-e5cfecff74a9/0.m3u8
-#EXTINF:-1,Public Movies
-https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
-#EXTINF:-1,Punjabi Shorts
-https://vglivessai.akamaized.net/ptnr-yupptv/title-Punjabi_Shorts/in/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/27c3fd7a-b01f-4b00-ac03-557ac77acd47/index.m3u8
-#EXTINF:-1,Raj Digital Plus
-https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
-#EXTINF:-1,Roja Movies
-https://stream.rojatv.cloud/rojatv/rojatv/index.m3u8
-#EXTINF:-1,Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1,Shubh Cinema TV
-https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
-#EXTINF:-1,Sony Max
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/151.ts
-#EXTINF:-1,Sony Max [Backup 1]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjgQTSMg/sony-max.png" group-title="Hindi", Sony Max
 https://drk6xq0vhn.gpcdn.net/live/max_hd_abr/index.m3u8
-#EXTINF:-1,Sony Max [Backup 2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0RP3S61F/sony-2.png" group-title="Hindi", Sony Max 2
 https://drk6xq0vhn.gpcdn.net/live/sony_max_sd_abr/index.m3u8
-#EXTINF:-1,Sony Max 2
-https://drk6xq0vhn.gpcdn.net/live/max_2_abr/index.m3u8
-#EXTINF:-1,Sony Max 2 [US]
-http://fortv.cc:8080/live/yd6H5yb2kK/nrkVd2ex3X/125795.ts
-#EXTINF:-1,South Movies
-https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1,South Station
-https://cc-yw7ztecy8do3q.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-yw7ztecy8do3q/SS_IN.m3u8
-#EXTINF:-1,Star Gold
-http://202.70.146.135:8000/play/a02a/index.m3u8
-#EXTINF:-1,Star Gold [Backup 1]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jX8Zkj1/star-gold.png" group-title="Hindi", Star Gold
 https://footfytv.pro/proxy/direct?url=http://livetv.akr4m.com:8080/bdtv/restrem/45.m3u8
-#EXTINF:-1,Star Gold 2
-http://202.70.146.135:8000/play/a02d/index.m3u8
-#EXTINF:-1,Star Gold 2 [Backup 1]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/jX8Zkj1/star-gold.png" group-title="Hindi", Star Gold
 http://107.167.16.138/stargold2/index.m3u8?token=test
-#EXTINF:-1,Star Gold Select
-http://202.70.146.135:8000/play/a068/index.m3u8
-#EXTINF:-1,Star Maa Movies
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RGdDjpY/maa.jpg" group-title="Tamil", Star Maa Movies
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
-#EXTINF:-1,Tabbar Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWZRH3GL/tabber.jpg" group-title="Punjabi", Tabber Hits
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
 #EXTINF:-1,Thalaa TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
