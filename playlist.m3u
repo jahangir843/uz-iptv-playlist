@@ -119,89 +119,43 @@ http://107.167.16.138/stargold2/index.m3u8?token=test
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:maamovies.smil/chunklist_b2628000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/JWZRH3GL/tabber.jpg" group-title="Punjabi", Tabber Hits
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
-#EXTINF:-1,Thalaa TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/pjmMWvZT/thalaa-tv.png" group-title="Tamil", Thalaa TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/2069c593-3c07-4d62-9d44-746be5c3a5d6/manifest.m3u8
-#EXTINF:-1,The Movie Club
-https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
-#EXTINF:-1,The Movie Club [Backup 1]
-https://d3gnyty2vddhsg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ytipwjqub3kf8/TMC2_IN.m3u8?ads.ads_cdn=cf&ads.cdn=cf
-#EXTINF:-1,Tolly TV
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/13b5735d-52c3-4be0-853d-e0ec0127e708/manifest.m3u8
-#EXTINF:-1,Zee Action
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/WSNFt1r/zee-act.png" group-title="Hindi", Zee Action
 https://stream.ottplus.live/live/zee_action_abr/index.m3u8
-#EXTINF:-1,Zee Action [Backup 1]
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/967.ts
-#EXTINF:-1,Zee Action [Backup 2]
-http://107.167.16.138/zeeaction/index.m3u8?token=test
-#EXTINF:-1,Zee Bollywood
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXpXVshC/bollywwod.jpg" group-title="Hindi", Zee Bollywood
 https://stream.ottplus.live/live/zee_bollywood_abr/index.m3u8
-#EXTINF:-1,Zee Bollywood [Backup 1]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/LXpXVshC/bollywwod.jpg" group-title="Hindi", Zee Bollywood
 https://drk6xq0vhn.gpcdn.net/live/zee_bollywood_abr/index.m3u8
-#EXTINF:-1,Zee Cinema
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xx6wSvrj/z-cinema.png" group-title="Hindi", Zee Cinema
 https://stream.ottplus.live/live/zee_cinema_hd_abr/index.m3u8
-#EXTINF:-1,Zee Cinema [Backup 1]
-https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ZeeCinemaAPAC.m3u8
-#EXTINF:-1,Zee Cinema [Backup 2]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xx6wSvrj/z-cinema.png" group-title="Hindi", Zee Cinema
 https://drk6xq0vhn.gpcdn.net/live/zee_cinema_hd_abr/index.m3u8
-#EXTINF:-1,Zee Cinema [Backup 3]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Xx6wSvrj/z-cinema.png" group-title="Hindi", Zee Cinema
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
-#EXTINF:-1,Zee Talkies
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xKYqFpVH/talk.jpg" group-title="Hindi", Zee Talkies
 http://107.167.16.138/zeetalkies/index.m3u8?token=test
-#EXTINF:-1,7S Music
-https://mumt03.tangotv.in/Dsly5z3H7SMUSIC/index.m3u8
-#EXTINF:-1,7S Music [Backup 1]
-http://103.175.73.12:8080/live/771/master.m3u8
-#EXTINF:-1,7X Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Ps6P3mNB/7x.png" group-title="Panjabi", 7x Music
 https://cdn2.in/7xPunjabihls/live.m3u8
-#EXTINF:-1,8XM
-https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
-#EXTINF:-1,9X Jalwa
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/PZcBgJN2/9x.png" group-title="Panjabi", 9x Jalwa
 https://d3kdywbtdfbp9z.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/dff423e0-3c82-46d6-9ecb-3baa96b5694a/70fca4d1-156e-4c03-baa4-9a4b602e33d5/0.m3u8
-#EXTINF:-1,9X Jalwa [Backup 1]
-https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1,9X Jalwa [Backup 2]
-https://mumt03.tangotv.in/Dsly5z3H9XJALWA/index.m3u8
-#EXTINF:-1,9X Jhakaas
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/QW7mfPH/jakkas.jpg" group-title="Tamil", 9x Jhakaas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1,9XM
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hFwkQDzf/9xm.png" group-title="Hindi", 9xm
 https://cc-706183qeo55ez.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-706183qeo55ez/DIYC/PMSL/9X/9XMusic_IN/9XMusic_IN.m3u8
-#EXTINF:-1,9XM [Backup 1]
-https://wiselp.wiseplayout.com/9XM/HD1080/HD1080.m3u8
-#EXTINF:-1,9XM [Backup 2]
-https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1,9XM [Backup 3]
-https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1,9XM [Backup 4]
-http://107.167.16.138/dhamaal/index.m3u8?token=test
-#EXTINF:-1,Aaryaa TV
-https://stream.ottlive.co.in/aryatvtamil/index.m3u8
-#EXTINF:-1,B4U Music
-https://streams.tangotv.in/B4UMUSIC/ORIGIN/index.m3u8
-#EXTINF:-1,B4U Music [Backup 1]
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8D85g1rP/b4u.png" group-title="Hindi", B4U
 https://drk6xq0vhn.gpcdn.net/live/b4u_music_abr/index.m3u8
-#EXTINF:-1,B4U Music [Backup 2]
-http://103.175.73.12:8080/live/157/master.m3u8
-#EXTINF:-1,Balle Balle
-https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:-1,Deewana HD
-https://live20.bozztv.com/giatvplayout7/giatv-209592/index.m3u8
-#EXTINF:-1,Desi Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9mcrmvX2/deshi.jpg" group-title="Hindi", desi channel
 https://livestream.unlimitedcdn.com/agm-dc/desi-channel/index.m3u8
-#EXTINF:-1,E24
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7J21dVSn/e-24.jpg" group-title="Punjabi", E 24
 https://amg13643-amg13643c2-amgplt0016.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg13643-amg13643c2-amgplt0016/playlist.m3u8
-#EXTINF:-1,E24 [Backup 1]
-https://mumt04.tangotv.in/m18aqlK4E24/index.m3u8
-#EXTINF:-1,Epic Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/27T7y1mh/epic.jpg" group-title="Punjabi", Epic Music
 https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
-#EXTINF:-1,Epic Music [Backup 1]
-https://cc-3cyxq80qusspd.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3cyxq80qusspd/playlist.m3u8
-#EXTINF:-1,ETV Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYn6J7pg/etv.png" group-title="Tamil", ETV Music
 https://cc-szivnms4rlah6.akamaized.net/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-#EXTINF:-1,Hindi Hits
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vCmjYkLY/hindi-hits.png" group-title="Hindi", Hindi Hits
 http://146.59.253.52:8080/hindihitshd/index.m3u8
-#EXTINF:-1,Insync
-https://mumt04.tangotv.in/m18aqlK4INSYNC/index.m3u8
-#EXTINF:-1,Isai Aruvi
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CKsVMng9/isai.png" group-title="Tamil", Isai Aruvi
 https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
 #EXTINF:-1,Jalwa
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/JalwaTV-135/playlist.m3u8
