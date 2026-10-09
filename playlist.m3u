@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/6RfBHx8N/png-clipart-logo-bijoy-tv-brand-television-mpeg-4-part-14-television-blue.png" group-title="Bangla", Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/6c65B4KJ/download.jpg" group-title="Bangla", Ananda TV
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/jPxGVtpR/asian-tv-logo-png-seeklogo-534370.png" group-title="Bangla", Asian TV
